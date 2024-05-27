@@ -916,6 +916,8 @@ int main()
 {
     HelloTriangleApplication app;
 
+
+    std::cout << "yo" << std::endl;
     try {
         app.Run();
     }
