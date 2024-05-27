@@ -918,6 +918,7 @@ int main()
 
 
     std::cout << "yo" << std::endl;
+    std::cout << "yo" << std::endl;
     try {
         app.Run();
     }
