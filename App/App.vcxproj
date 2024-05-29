@@ -79,7 +79,7 @@
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WINDOWS;DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>Source;..\Core\Source;C:\VulkanSDK\1.3.283.0\Include;C:\Users\bossm\Downloads\glfw-3.4.bin.WIN64\glfw-3.4.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>Source;..\Core\Source;C:\VulkanSDK\1.3.283.0\Include;C:\Users\bossm\Downloads\glfw-3.4.bin.WIN64\glfw-3.4.bin.WIN64\include;C:\glm_lib\glm</AdditionalIncludeDirectories>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
       <Optimization>Disabled</Optimization>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
@@ -99,7 +99,7 @@
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WINDOWS;RELEASE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>Source;..\Core\Source;C:\VulkanSDK\1.3.283.0\Include;C:\Users\bossm\Downloads\glfw-3.4.bin.WIN64\glfw-3.4.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>Source;..\Core\Source;C:\VulkanSDK\1.3.283.0\Include;C:\Users\bossm\Downloads\glfw-3.4.bin.WIN64\glfw-3.4.bin.WIN64\include;C:\glm_lib\glm</AdditionalIncludeDirectories>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <Optimization>Full</Optimization>
       <FunctionLevelLinking>true</FunctionLevelLinking>
@@ -125,7 +125,7 @@
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WINDOWS;DIST;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>Source;..\Core\Source;C:\VulkanSDK\1.3.283.0\Include;C:\Users\bossm\Downloads\glfw-3.4.bin.WIN64\glfw-3.4.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>Source;..\Core\Source;C:\VulkanSDK\1.3.283.0\Include;C:\Users\bossm\Downloads\glfw-3.4.bin.WIN64\glfw-3.4.bin.WIN64\include;C:\glm_lib\glm</AdditionalIncludeDirectories>
       <DebugInformationFormat>None</DebugInformationFormat>
       <Optimization>Full</Optimization>
       <FunctionLevelLinking>true</FunctionLevelLinking>
