@@ -1,3 +1,2 @@
 ﻿  App.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  App.vcxproj -> C:\school poop\VulkanFPSGame\Binaries\windows-x86_64\Debug\App\App.exe
+  App.vcxproj -> D:\VulkanFPSGame\Binaries\windows-x86_64\Debug\App\App.exe
