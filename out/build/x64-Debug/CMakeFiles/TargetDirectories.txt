@@ -1,0 +1,3 @@
+D:/VulkanFPSGame/out/build/x64-Debug/CMakeFiles/VULKANFPSGAME.dir
+D:/VulkanFPSGame/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/VulkanFPSGame/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
